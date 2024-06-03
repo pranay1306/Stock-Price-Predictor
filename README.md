@@ -5,5 +5,3 @@ To Run the Stock Price Predictor app:
     Example : pip install streamlit
 3.  Run the streamlit app in a new terminal:
     streamlit run SPP.py 
-
-"# Stock-Price-Predictor" 
