@@ -17,7 +17,7 @@ from sklearn.metrics import r2_score, mean_absolute_error
 
 
 
-st.title('Stock Price Predictor')
+st.title('Trading Price Predictor')
 
 def main():
     option = st.sidebar.selectbox('Make a choice', ['Visualize','Recent Data', 'Predict'])
