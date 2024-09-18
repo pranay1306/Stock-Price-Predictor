@@ -33,10 +33,10 @@ Predict future stock prices using different machine learning models like Linear 
 
 ## 💻 Technologies Used
 
-Frontend: **Streamlit**
-Backend: **Python**
-APIs: **yFinance**
-Libraries: **Scikit-learn, XGBoost, TA-Lib for indicators, Pandas, NumPy**
+- **Frontend**: Streamlit
+- **Backend**: Python
+- **APIs**: yFinance
+- **Libraries**: Scikit-learn, XGBoost, TA-Lib for indicators, Pandas, NumPy
 
 ## 📂 Sections
 
